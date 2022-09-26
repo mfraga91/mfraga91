@@ -1,5 +1,5 @@
 # Sobre mim:
-- 👋 Olá sou Maycon Fraga!
+- 👋 Olá sou **Maycon Fraga**!
 - 📧 O meu e-mail de contato é maycon.fraga@escola.pr.gov.br
 - 👀 Estou aprendendo a programar.
 - 💡 Eu estou interessado em programar novas linguagens.
